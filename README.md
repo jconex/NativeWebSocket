@@ -1,4 +1,5 @@
 <img src="Media/header.png?raw=true" alt="Native WebSocket" />
+## That is a Fork of endel, Thanks for this Endel
 
 A simple, dependency-free WebSocket client library for **Unity**, **MonoGame**, **Godot**, and any **.NET** project.
 
@@ -25,12 +26,12 @@ Used in [Colyseus Unity SDK](https://github.com/colyseus/colyseus-unity-sdk).
 1. Open Unity
 2. Open Package Manager Window
 3. Click Add Package From Git URL
-4. Enter URL: `https://github.com/endel/NativeWebSocket.git#upm-2`
+4. Enter URL: `https://github.com/jconex/NativeWebSocket.git#upm-2`
 
-If you need the previous 1.x package instead, use `https://github.com/endel/NativeWebSocket.git#upm` in UPM, or check out the repository sources from the [`1.x` branch](https://github.com/endel/NativeWebSocket/tree/1.x).
+If you need the previous 1.x package instead, use `https://github.com/jconex/NativeWebSocket.git#upm` in UPM, or check out the repository sources from the [`1.x` branch](https://github.com/jconex/NativeWebSocket/tree/1.x).
 
 **Via .unitypackage:**
-1. Download `NativeWebSocket.unitypackage` from the [Releases](https://github.com/endel/NativeWebSocket/releases) page
+1. Download `NativeWebSocket.unitypackage` from the [Releases](https://github.com/jconex/NativeWebSocket/releases) page
 2. In Unity, go to Assets > Import Package > Custom Package and select the downloaded file
 
 ## MonoGame / .NET
